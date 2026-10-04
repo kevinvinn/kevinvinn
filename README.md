@@ -28,23 +28,12 @@
 
 ## `> whoami`
 
-```text
-Kevin Risky Abadi
-Backend / Full-Stack Developer
-Indonesia 🇮🇩
-
-Interested in:
-→ Backend Development
-→ REST API & System Architecture
-→ Database Design
-→ Cloud & Deployment
-→ Full-Stack Development
-
-Currently exploring:
-→ OutSystems / ODC
-→ Backend Engineering
-→ Software Architecture
-```
+> **Kevin Risky Abadi**  
+> Backend / Full-Stack Developer · Indonesia 🇮🇩
+>
+> Building backend systems, REST APIs, and full-stack applications with a focus on clean architecture, databases, and scalable solutions.
+>
+> **Currently exploring:** OutSystems / ODC · Backend Engineering · Software Architecture
 
 ---
 
@@ -100,11 +89,19 @@ Currently exploring:
 
 <div align="center">
 
-<img src="/metrics-header.svg" alt="GitHub Statistics" width="95%"/>
+<img
+  src="/metrics-header.svg"
+  alt="GitHub Statistics"
+  width="95%"
+/>
 
 <br/><br/>
 
-<img src="/metrics-isocalendar.svg" alt="GitHub Activity Calendar" width="95%"/>
+<img
+  src="/metrics-isocalendar.svg"
+  alt="GitHub Activity Calendar"
+  width="95%"
+/>
 
 </div>
 
@@ -114,11 +111,22 @@ Currently exploring:
 
 <div align="center">
 
+<!--
+  Enable this section after WakaTime starts collecting coding data.
+
+  Replace YOUR_WAKATIME_USERNAME with your WakaTime username.
+-->
+
+<!--
 <img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinrsky&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF"
   alt="WakaTime Coding Activity"
   width="95%"
 />
+-->
+
+> **WakaTime tracking is being set up...**  
+> Coding activity will appear here once enough data has been collected.
 
 </div>
 
@@ -133,32 +141,26 @@ Currently exploring:
 
 <td width="50%" align="center">
 
-<img src="/metrics-languages.svg" alt="Languages" width="100%"/>
+<img
+  src="/metrics-languages.svg"
+  alt="Languages"
+  width="100%"
+/>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="/metrics-lines.svg" alt="Lines of Code" width="100%"/>
+<img
+  src="/metrics-lines.svg"
+  alt="Lines of Code"
+  width="100%"
+/>
 
 </td>
 
 </tr>
 </table>
-
-<br/>
-
-<img src="/metrics-habits.svg" alt="Coding Habits" width="95%"/>
-
-</div>
-
----
-
-## `> achievements --list`
-
-<div align="center">
-
-<img src="/metrics-achievements.svg" alt="GitHub Achievements" width="95%"/>
 
 </div>
 
@@ -178,15 +180,15 @@ Currently exploring:
 
 ---
 
-## `> fortune | cowsay`
+## `> fortune`
 
 <div align="center">
 
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C+solve+the+problem.+Then%2C+write+the+code.&author=John+Johnson"
-  alt="Developer Quote"
-  width="95%"
-/>
+> "Waktu terbaik untuk belajar coding adalah dua tahun yang lalu.  
+> Tapi waktu terbaik kedua adalah hari ini."
+>
+> **— Sandhika Galih**  
+> *Web Programming UNPAS*
 
 </div>
 
@@ -213,13 +215,8 @@ Currently exploring:
 
 <br/><br/>
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  $ echo "Thanks for visiting my profile!"   │
-│  $ echo "Let's build something together 🚀" │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+**`$ echo "Thanks for visiting my profile!"`**
+
+**`$ echo "Let's build something together 🚀"`**
 
 </div>
